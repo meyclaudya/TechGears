@@ -2,10 +2,10 @@
 Project praktikum Minggu 3 - Flexbox Mastery.
 
 ## 📸 Preview
-*Portrait*
+### Portrait
 <img src="portrait.jpeg" alt="Deskripsi" width="50%">
 
-*Landscape*
+### Landscape
 <img src="landscape.jpeg" alt="Deskripsi" width="50%">
 
 ## 🛠️ Features
