@@ -3,7 +3,7 @@
     "name": "TechGears",
     "slug": "TechGears",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "techgears",
     "userInterfaceStyle": "automatic",
