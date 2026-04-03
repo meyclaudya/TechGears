@@ -3,10 +3,10 @@ Project praktikum Minggu 3 - Flexbox Mastery.
 
 ## 📸 Preview
 *Portrait*
-![App Screen](c:\Users\VICTUS\Downloads\portrait.jpeg)
+<img src="portrait.jpeg" alt="Deskripsi" width="50%">
 
 *Landscape*
-![App Screen](c:\Users\VICTUS\Downloads\landscape.jpeg)
+<img src="landscape.jpeg" alt="Deskripsi" width="50%">
 
 ## 🛠️ Features
 - Responsive Grid Layout
