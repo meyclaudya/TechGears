@@ -6,7 +6,7 @@ Project praktikum Minggu 3 - Flexbox Mastery.
 <img src="portrait.jpeg" alt="Deskripsi" width="50%">
 
 ### Landscape
-<img src="landscape.jpeg" alt="Deskripsi" width="50%">
+<img src="landscape.jpeg" alt="Deskripsi" width="100%">
 
 ## 🛠️ Features
 - Responsive Grid Layout
